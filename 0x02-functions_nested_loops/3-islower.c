@@ -1,6 +1,6 @@
-*
+/*
  * File: 3-islower.c
- * Auth: gathama
+ * Auth: Solomon Mbotia
  */
 #include "main.h"
 /**
@@ -15,4 +15,4 @@ int _islower(int c)
 		return (1);
 	else
 		return (0);
- }
+}
