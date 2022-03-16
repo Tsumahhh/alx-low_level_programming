@@ -1,6 +1,6 @@
 /*
  * File: 5-sign.c
- * Auth: gathama
+ * Auth: solomon mbotia
  */
 #include "main.h"
 /**
