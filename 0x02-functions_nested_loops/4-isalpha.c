@@ -1,6 +1,6 @@
 /*
  * File: 4-isalpha.c
- * Auth: gathama
+ * Auth: solomon mbotia
  */
 #include "main.h"
 /**
